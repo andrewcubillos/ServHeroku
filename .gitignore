@@ -81,20 +81,8 @@ nb-configuration.xml
 ##############################
 ## OS X
 ##############################
+<<<<<<< HEAD
 .DS_Store
-
-# Compiled class file
-*.class
-# Log file
-*.log
-# BlueJ files
-*.ctxt
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-# Package Files #*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+=======
+.DS_Store
+>>>>>>> 38c6b23 (fixes)
